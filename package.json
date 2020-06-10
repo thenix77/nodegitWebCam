@@ -1,0 +1,27 @@
+{
+  "name": "nodeReconocimientoFacial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node ./src/index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "*",
+    "bootstrap": "*",
+    "colors": "*",
+    "express": "*",
+    "jquery": "*",
+    "socket.io": "*"
+  },
+  "devDependencies": {
+    "nodemon": "*"
+  },
+  "engines": {
+    "node":"*"
+  }
+}
